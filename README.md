@@ -195,3 +195,6 @@ This repository serves as the official landing page for HP DesignJet 5100 Printe
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HP DesignJet 5100 drivers today!**
+
+---
+**Last updated:** 2026-11-11 18:12:28 UTC
