@@ -197,4 +197,4 @@ This repository serves as the official landing page for HP DesignJet 5100 Printe
 **Get the most recent version of HP DesignJet 5100 drivers today!**
 
 ---
-**Last updated:** 2026-11-14 00:03:51 UTC
+**Last updated:** 2026-11-14 07:10:59 UTC
